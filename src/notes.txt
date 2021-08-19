@@ -1,0 +1,15 @@
+we need a fillable form that only accepts integers
+drop downs for starting base and base to convert to
+2-36 for each
+
+clear button
+convert button
+
+clear method to clear form
+
+convert method to produce the converted value
+convert button runs convert method, then sets output field to product
+
+convert method takes in user input from field
+takes in starting and ending base values from drop downs
+does math based off of that
